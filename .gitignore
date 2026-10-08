@@ -1,0 +1,13 @@
+# generate la compilare
+build/
+.pio/
+managed_components/
+sdkconfig
+sdkconfig.old
+dependencies.lock
+# editor
+.vscode/
+.clangd
+.cache/
+.history/
+compile_commands.json
